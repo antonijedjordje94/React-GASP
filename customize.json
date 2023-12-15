@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "Folks",
+  "greetingText": "I really like your team btw!",
+  "wishText": "I sincerely hope to work with you.",
+  "imagePath": "img/lydia2.png",
+  "text1": "Thanks for visiting my working example.",
+  "textInChatBox": "This is my working example of React Green Sock Animation Platform.",
+  "sendButtonLabel": "Send",
+  "text2": "I can work with full time.",
+  "text3": "I will work remotely 40hr+ in a week.",
+  "text4": "I can start immediately when from I get hired.",
+  "text4Adjective": "An experienced React.js developer",
+  "text5Entry": "Because,",
+  "text5Content": "I am an experienced React.js developer.",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "I am sure that I am the best candidate for this position.",
+  "outroText": "I am ready to start right now.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
